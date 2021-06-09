@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Jiae!
-- 👀 I’m interested in programming, learing new, cooking and traveling.
+- 👀 I’m interested in programming, learing new things, cooking and traveling.
 - 🌱 I’m currently learning JS, Node.js and Python.
 - 💞️ I’m looking to collaborate on any project.
 - 📫 How to reach me.. jiaelee1010@gmail.com
