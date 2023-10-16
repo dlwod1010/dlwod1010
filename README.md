@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Jiae!
-- 👀 I’m interested in programming, learing new things, cooking and traveling.
-- 🌱 I’m currently learning JS, Node.js and Python.
-- 💞️ I’m looking to collaborate on any project.
+- 👀 I’m interested in learing new things and traveling.
+- 🌱 I’m currently learning C++ and SQL.
+- 💞️ Exploring the world of programming.
 - 📫 How to reach me.. jiaelee1010@gmail.com
 
 <!---
